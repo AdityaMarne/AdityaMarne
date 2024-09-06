@@ -1,7 +1,7 @@
 # 💫About Me :
 About Me 👨‍💻
 
-I'm a passionate Software Engineer 💻 with a strong foundation in Computer Engineering and hands-on experience in building web applications, data science projects, and product management systems. I thrive in team settings, adapt quickly, and enjoy solving complex problems. My skills span various programming languages, databases, frameworks, and tools including C++, Python, SQL, Django, and Power BI.
+I'm a passionate Software Engineer 💻 with a strong foundation in Computer Engineering and hands-on experience in building web applications, data science projects, and product management systems. I thrive in team settings, adapt quickly, and enjoy solving complex problems. My skills span various programming languages, databases, frameworks, and tools including Java, Python, SQL, Django, and Power BI.
 
 I have led projects like DGcampus, Vetrina Product Management System, and Zomato Delivery Time Prediction 🚀, and I've applied machine learning algorithms 🤖 to tackle real-world challenges. Currently, I’m honing my expertise in data analysis 📊, machine learning, and full-stack development.
 
