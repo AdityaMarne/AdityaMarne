@@ -23,6 +23,10 @@ Recent Projects:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaMarne&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMarne&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### 💻 LeetCode Streak
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aditya_Marne?theme=light&font=Montserrat)
+
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
